@@ -1,0 +1,10 @@
+
+steps
+
+1. Embedding layer adds one more dim
+2. Tokenizer class converts text data into sparse vectors 
+3. Padding is used to pad zeros to the text vectors to bring
+all vectors into one same length
+
+
+
